@@ -1,0 +1,1 @@
+print("HelloWorld", 123,100,'abc', sep="*", end="_")
