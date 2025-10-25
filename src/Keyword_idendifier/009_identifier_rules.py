@@ -1,0 +1,2 @@
+long_var_name_can_create_in_python= 10
+print(long_var_name_can_create_in_python)

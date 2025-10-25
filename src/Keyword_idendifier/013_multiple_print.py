@@ -1,0 +1,1 @@
+print("Apple","car", 10, 10, 20)
